@@ -79,7 +79,7 @@
     }
   ],
   "version": "1.0",
-  "privacy": "open",
+  "privacy": "registered",
   "licenses": [
     {
       "name": "ODbL"
@@ -163,6 +163,14 @@
           "value": "Canadian"
         }
       ]
+    },
+    {
+        "category": "downloadOptions",
+        "values": [
+            {
+              "value": "offsite"
+            }
+        ]
     },
     {
       "category": "origin_institution",
